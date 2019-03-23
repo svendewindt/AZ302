@@ -37,6 +37,8 @@ Optimize Consumption Stategy
 - Reports, alerts
 - Rearchitecting to use cheaper methods Paas, Serverless
 
+[Goto page](./1.%20Determine%20Workload%20Requirements.md)
+
 ### Design for Identity and Security (5-10%)
 
 - Authorization Approach
@@ -47,6 +49,8 @@ Optimize Consumption Stategy
   - API keys
   - Devs don't see keys
   - Certificates
+
+[Goto page](./2.%20Design%20for%20Identity%20and%20Security.md)
 
 ### Design a Business Continuity Strategy (15-20%)
 
@@ -66,6 +70,8 @@ Design for High Availability
 - Autoscaling
 - No human intervention
 
+[Goto page](./3.%20Design%20a%20Business%20Continuity%20Strategy.md)
+
 ### Implement Workloads and Security (5-10%)
 
 Configure serverless computing
@@ -75,6 +81,8 @@ Configure serverless computing
 - Event Grid
 - Service Bus
 
+[Goto page](./4.%20Implement%20Workloads%20and%20Security.md)
+
 ### Implement Authentication and Secure Data (5-10%)
 
 Implement secure data solutions
@@ -82,6 +90,8 @@ Implement secure data solutions
 - Azure Key Vault
 - Encrypt data at rest
 - Azure Confidential Compute - encrypt data while in use
+
+[Goto page](./5.%20Implement%20Authentication%20and%20Secure%20Data.md)
 
 ### Develop for the Cloud (25-30%)
 
@@ -102,3 +112,5 @@ Develop for autoscaling
   - weekdays / weekends
   - holidays
   - custom metric (Application Insights)
+
+[Goto page](./6.%20Develop%20for%20the%20Cloud.md)
