@@ -1,5 +1,7 @@
 # AZ-302
 
+[https://www.microsoft.com/en-us/learning/exam-az-302.aspx](https://www.microsoft.com/en-us/learning/exam-az-302.aspx)
+
 ## Multichannel learning
 
 [Azure updates & announcements](https://azure.microsoft.com/en-us/updates/)
